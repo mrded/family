@@ -1,0 +1,5 @@
+title: Demenchuk's family tree 
+baseurl: "/"
+url: "https://mrded.github.io/family"
+markdown: kramdown
+theme: minima
